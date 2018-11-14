@@ -1,0 +1,16 @@
+G:\新业务\Rounting\Rounting\learnCplex\obj\Debug\learnCplex.csprojAssemblyReference.cache
+G:\新业务\Rounting\Rounting\learnCplex\obj\Debug\learnCplex.csproj.CoreCompileInputs.cache
+G:\新业务\Rounting\Rounting\learnCplex\bin\Debug\learnCplex.exe.config
+G:\新业务\Rounting\Rounting\learnCplex\bin\Debug\learnCplex.exe
+G:\新业务\Rounting\Rounting\learnCplex\bin\Debug\learnCplex.pdb
+G:\新业务\Rounting\Rounting\learnCplex\obj\Debug\learnCplex.csproj.CopyComplete
+G:\新业务\Rounting\Rounting\learnCplex\obj\Debug\learnCplex.exe
+G:\新业务\Rounting\Rounting\learnCplex\obj\Debug\learnCplex.pdb
+F:\C#调用Cplex求解\调用Cplex求解\learnCplex\bin\Debug\learnCplex.exe.config
+F:\C#调用Cplex求解\调用Cplex求解\learnCplex\bin\Debug\learnCplex.exe
+F:\C#调用Cplex求解\调用Cplex求解\learnCplex\bin\Debug\learnCplex.pdb
+F:\C#调用Cplex求解\调用Cplex求解\learnCplex\obj\Debug\learnCplex.csprojAssemblyReference.cache
+F:\C#调用Cplex求解\调用Cplex求解\learnCplex\obj\Debug\learnCplex.csproj.CoreCompileInputs.cache
+F:\C#调用Cplex求解\调用Cplex求解\learnCplex\obj\Debug\learnCplex.csproj.CopyComplete
+F:\C#调用Cplex求解\调用Cplex求解\learnCplex\obj\Debug\learnCplex.exe
+F:\C#调用Cplex求解\调用Cplex求解\learnCplex\obj\Debug\learnCplex.pdb

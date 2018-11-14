@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learnCplex", "learnCplex\learnCplex.csproj", "{6CF280AB-2FBA-4981-95D0-C13C6197742D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF280AB-2FBA-4981-95D0-C13C6197742D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF280AB-2FBA-4981-95D0-C13C6197742D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF280AB-2FBA-4981-95D0-C13C6197742D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF280AB-2FBA-4981-95D0-C13C6197742D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B372EFF-88BA-4CAB-9251-E0790D6A640E}
+	EndGlobalSection
+EndGlobal
